@@ -1,0 +1,27 @@
+[submodule "seven_segment_display"]
+	path = seven_segment_display
+	url = https://github.com/gaozheng2001/seven_segment_display.git
+[submodule "load_counter"]
+	path = load_counter
+	url = https://github.com/gaozheng2001/load_counter.git
+[submodule "sig_ver"]
+	path = sig_ver
+	url = https://github.com/gaozheng2001/sig_ver.git
+[submodule "finite_state_machine_with_datapath"]
+	path = finite_state_machine_with_datapath
+	url = https://github.com/gaozheng2001/finite_state_machine_with_datapath.git
+[submodule "finite_state_machine"]
+	path = finite_state_machine
+	url = https://github.com/gaozheng2001/finite_state_machine.git
+[submodule "counter"]
+	path = counter
+	url = https://github.com/gaozheng2001/counter.git
+[submodule "4bitadder"]
+	path = 4bitadder
+	url = https://github.com/gaozheng2001/4bitadder.git
+[submodule "stepper_motor_drive"]
+	path = stepper_motor_drive
+	url = https://github.com/gaozheng2001/stepper_motor_drive.git
+[submodule "three_digit_decimal_counter"]
+	path = three_digit_decimal_counter
+	url = https://github.com/gaozheng2001/three_digit_decimal_counter.git
